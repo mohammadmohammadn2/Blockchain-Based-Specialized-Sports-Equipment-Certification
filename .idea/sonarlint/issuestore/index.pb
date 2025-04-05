@@ -5,3 +5,7 @@ X
 (contracts/manufacturer-verification.clar,a/a/aaa37ef1a91d7549f1f14a5f500859008e69300e
 W
 'tests/manufacturer-verification.test.ts,5/d/5df2106a003d5447a074c976bfad87ab0d847d5f
+T
+$contracts/testing-certification.clar,1/9/19fe7e76c4295cee8531d4864e0373874cb57439
+S
+#tests/testing-certification.test.ts,1/1/11da9ba5cfb6ef41247456b00747531c065ceada
